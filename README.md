@@ -1,5 +1,5 @@
 HELLO WORLD
-👋 Hi I’m @Jesika H.Manurung
+-👋 Hi I’m @Jesika H.Manurung
 - 👀 I’m studying in a universitas lampung
 - 🌱 I’m currently learning Programming
 - 💞️ I’m majored computer science
