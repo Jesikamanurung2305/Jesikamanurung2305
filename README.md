@@ -3,7 +3,7 @@ HELLO WORLD
 - 👀 I’m studying in a universitas lampung
 - 🌱 I’m currently learning Programming
 - 💞️ I’m majored computer science
-- 📫 How to reach me jesikamanurung2305@gmail.com
+- 📫 How to reach me jesikamanurung2305@gmail.com @jesikaamnrgg
 
 <!---
 Jesikamanurung2305/Jesikamanurung2305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
